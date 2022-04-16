@@ -1,8 +1,10 @@
+
+
 const App = () => {
     return (
-        <div>
-            This is the React App...
-        </div>
+        <>
+        This is the main part of page...
+        </>
     );
 }
 
