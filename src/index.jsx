@@ -13,5 +13,4 @@ ReactDOM.render(
     , document.getElementById('root')
 )
 
-// document.body.style = 'background: rgb(239 246 255);';
-// document.getElementsByTagName('html')[0].setAttribute("dir", "rtl");
+document.body.style = 'background: rgb(239 246 255);';
