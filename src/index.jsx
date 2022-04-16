@@ -2,6 +2,8 @@ import ReactDOM from 'react-dom'
 import Header from "./Header";
 import App from './App';
 import Footer from "./Footer";
+import '../src/style.scss';
+
 
 ReactDOM.render(
     <>

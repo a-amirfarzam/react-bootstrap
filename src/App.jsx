@@ -1,8 +1,8 @@
 const App = () => {
     return (
-        <>
-        This is the main part of page...
-        </>
+        <div className="container mt-3 border border-success bg-white p-3 rounded-3">
+            This is the main part of page...
+        </div>
     );
 }
 
